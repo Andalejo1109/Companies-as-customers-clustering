@@ -1,7 +1,7 @@
 # Companies-customer-clustering
 I developed a tool to cluster and show the data related to the clients health information and behavior during the year 2022 using R coding and a data visualization tool.
 
-##To determine the best way to group companies by behavior, I tested different clustering models. 
+## To determine the best way to group companies by behavior, I tested different clustering models. 
 
 One model I tried was the hierarchical clustering model, also known as a decision tree.
 
@@ -15,7 +15,9 @@ I faced limitations with our computer's processing power. We were able to analyz
 
 Ultimately, we decided not to use the hierarchical clustering model because it took too long to process the data. Our computer would have needed to run for many hours, even overnight, which isn't practical for real-world use.
 
-References:
+
+## References:
+
 Analisis de cluster, M. Vargas, Fuente:
 https://www.ugr.es/~mvargas/2.RESUMENANLISISCLUSTER.pdf
 
