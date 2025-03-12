@@ -1,5 +1,5 @@
 # Companies-customer-clustering
-I developed a tool to cluster and show the data related to the clients health information and behavior during the year 2020 using R coding and a data visualization tool.
+I developed a tool to cluster and show the data related to the clients health information and behavior during the year 2022 using R coding and a data visualization tool.
 
 ##To determine the best way to group companies by behavior, I tested different clustering models. 
 
